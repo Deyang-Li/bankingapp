@@ -1,4 +1,4 @@
-# Getting Started with Spring boot banking App
+# Getting Started with React banking App
 
 This project is the frontend for banking application, which uses react.
 
