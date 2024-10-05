@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Spring boot banking App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the frontend for banking application, which uses react.
 
 ## Available Scripts
 
